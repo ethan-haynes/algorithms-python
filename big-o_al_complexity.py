@@ -1,4 +1,4 @@
-from math import *
+from math import log, sqrt, pow, factorial
 
 
 # for lg n
